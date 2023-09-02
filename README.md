@@ -8,7 +8,7 @@ This project utilizes the OpenAI API for extracting financial data from text. Ad
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
+
 - [Contributing](#contributing)
 
 
